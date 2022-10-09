@@ -1,1 +1,1 @@
-见:[[手摸手带你创建php现代化框架] 教程终于写完了](https://learnku.com/articles/49496)
+见:[[带你创建php现代化框架] 教程终于写完了](https://learnku.com/articles/49496)
