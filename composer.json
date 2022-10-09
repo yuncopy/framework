@@ -1,0 +1,28 @@
+{
+    "name": "lyxxxh/php_frame",
+    "type": "project",
+    "description": "因为太懒了所以就随便写几个字不小心变得太长的描述",
+    "keywords": ["framework","php"],
+	"autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "core\\": "core/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "xxh",
+            "email": "449399575@qq.com"
+        }
+    ],
+    "require": {
+        "psr/container": "^1.0",
+        "duncan3dc/blade": "*",
+        "topthink/think-template": "^2.0",
+        "psr/log": "^1.1",
+        "phpunit/phpunit": "^9.3"
+    }
+}
