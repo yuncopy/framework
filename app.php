@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * 调试模式
+ */
+error_reporting(E_ALL);
+ini_set('display_errors','On');
+
 define('FRAME_BASE_PATH', __DIR__); // 框架目录
 define('FRAME_START_TIME', microtime(true)); // 开始时间
 define('FRAME_START_MEMORY',memory_get_usage()); // 开始内存

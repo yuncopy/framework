@@ -1,1 +1,3 @@
 [22-10-09 05:10:41][error] Required parameter $callback follows optional parameter $attributes at /home/wwwroot/php_frame/core/RouteCollection.php:20[8192]
+[22-10-09 10:10:35][debug] Cannot assign string to property core\RouteCollection::$route_index of type int at /home/wwwroot/framework/core/RouteCollection.php:57
+[22-10-09 10:10:35][debug] Cannot assign string to property core\RouteCollection::$route_index of type int at /home/wwwroot/framework/core/RouteCollection.php:57
